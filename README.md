@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EradicateX
 - 👀 I’m currently working on InsaneRaids
-- 🌱 I’m currently learning React.js and Java
+- 🌱 I’m currently learning React.JS
 - 💞️ I am mainly interested in java and web development
 - 📫 How to reach me info@eradicate.eu
 
