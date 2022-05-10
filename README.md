@@ -14,12 +14,12 @@
 
 <p align="center">
     <a href="https://store.insaneraids.cf">
-        <img alt="spigot" src="https://img.shields.io/badge/SMC Developments-Skyblock Setup-blue?style=for-the-badge"/>
+        <img alt="spigot" src="https://img.shields.io/badge/Webáruház-blue?style=for-the-badge"/>
     </a>
-    <a href="https://documentation.smcdevelopments.com/" alt="Docs (gitbook)">
-        <img src="https://img.shields.io/badge/docs-gitbook-blue?style=for-the-badge"/>
+    <a href="https://www.hidenetwork.hu" alt="Weboldal">
+        <img src="https://img.shields.io/badge/Weboldal-blue?style=for-the-badge"/>
     </a>
-    <a href="https://discord.gg/HZ34arJe8H" alt="Discord">
+    <a href="https://dc.insaneraids.eu" alt="Discord">
         <img src="https://img.shields.io/discord/709420003165863936?label=discord&style=for-the-badge&color=blue"/>
     </a>
 </p>
