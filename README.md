@@ -8,7 +8,7 @@
 <h4 align="center">👀 I’m currently working on InsaneRaids</h4>
 <h4 align="center">🌱 I’m currently learning React.JS</h4>
 <h4 align="center">💞️ I am mainly interested in java and web development</h4>
-<h4 align="center">📫 How to reach me info@eradicate.eu</h4>
+<h4 align="center">📫 How to reach me info@eradicatex.eu</h4>
 
 <p align="center">
     <a href="https://store.insaneraids.eu">
